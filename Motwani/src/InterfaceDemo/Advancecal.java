@@ -28,14 +28,16 @@ public class Advancecal implements Calcu
 
 	@Override
 	public void add() {
-		// TODO Auto-generated method stub
+		
 		System.out.println("i m in add method");
 		
 	}
+	
+	
 
 	@Override
 	public void sub() {
-		// TODO Auto-generated method stub
+		
 		System.out.println("i m in sub method");
 		
 	}

@@ -1,5 +1,13 @@
 package InheritanceDemo;
 
+//this feature allow child class to access Parent class methods
+
+//why inheritence used:
+//	code reuseability
+//	no code duplication
+//	for method overriding
+
+
 public class Childclass extends Baseclass
 {
 
@@ -31,7 +39,7 @@ public class Childclass extends Baseclass
 		obj3.add();
 		obj3.sub();
 		
-		// child class reference and child class object
+		// child class reference and base class object
 		//Invalid scenario : child cannot hold parent
 		
 		//Childclass obj4= new Baseclass();

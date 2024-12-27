@@ -1,7 +1,7 @@
 package Polymorphism;
 
 
-
+// Polymorphism means one thing in multiple form
 // Polymorphism 2 type
 // 1) Overloading - compile time or Early binding or static binding
 //2) OverRidding - Runtime polymorphism or Late binding or dynamic bindling
@@ -10,6 +10,9 @@ package Polymorphism;
 
 
 // OverLoading
+//number of argument
+//type of argument
+//order of argument
 
 public class OverloadingParameter {
 
